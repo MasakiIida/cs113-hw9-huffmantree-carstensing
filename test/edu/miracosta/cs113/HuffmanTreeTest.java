@@ -1,5 +1,14 @@
 package edu.miracosta.cs113;
 
+/**
+ * @author Nery and Company
+ * @Date 11/18/2018
+ * @version 1.0
+ *
+ * Class: CS 113 MW 1:30 - 3:20
+ * Homework 09 - HuffmanTree
+ */
+
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

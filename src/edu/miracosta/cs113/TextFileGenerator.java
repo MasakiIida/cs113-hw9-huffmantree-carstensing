@@ -1,5 +1,15 @@
 package edu.miracosta.cs113;
 
+/**
+ * @author Nery and Company
+ * Edited by Carsten Signleton
+ * @Date 11/18/2018
+ * @version 1.1
+ *
+ * Class: CS 113 MW 1:30 - 3:20
+ * Homework 09 - HuffmanTree
+ */
+
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
@@ -18,7 +28,9 @@ public class TextFileGenerator {
      * @param outputFilename The file we want to output into
      * @throws IOException
      */
-    public static void makeCleanFile(String url, String outputFilename) throws IOException {
+    public static String makeCleanFile(String url, String outputFilename) throws IOException {
+        StringBuilder fileString = new StringBuilder();
+        String tempString = "";
         URL http = new URL(url);
         HttpURLConnection conn = (HttpURLConnection) http.openConnection();
 
@@ -34,11 +46,13 @@ public class TextFileGenerator {
         //Only execute if we had a 200 response code
         if (responseCode == 200) {
             try {
-                PrintWriter cleanFile = new PrintWriter(new FileOutputStream(outputFilename));
+                PrintWriter cleanFile = new PrintWriter(new FileOutputStream("src\\edu\\miracosta\\cs113\\" + outputFilename));
                 Scanner dirtyFile = new Scanner(conn.getInputStream());
 
                 while(dirtyFile.hasNextLine()) {
-                    cleanFile.println( TextFileGenerator.cleanString( dirtyFile.nextLine() ) );
+                    tempString = TextFileGenerator.cleanString( dirtyFile.nextLine() );
+                    cleanFile.println( tempString );
+                    fileString.append(tempString + "\n");
                 }
 
                 dirtyFile.close();
@@ -51,6 +65,8 @@ public class TextFileGenerator {
             System.out.println("Invalid response code.");
         }
         conn.disconnect();
+
+        return fileString.toString();
     }
 
     /**

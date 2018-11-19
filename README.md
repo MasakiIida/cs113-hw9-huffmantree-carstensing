@@ -1,7 +1,7 @@
 # CS113-HW09-HuffmanTree
 ## HW #9 for CS113 - Huffman Tree Encoding + URL Request
 
-**[//Insert Build Status Image//]**
+[![Build Status](https://travis-ci.com/MiraCostaCS-Nery/cs113-hw9-huffmantree-carstensing.svg?token=D6y5yhx5bqSdBzeCpxWE&branch=master)](https://travis-ci.com/MiraCostaCS-Nery/cs113-hw9-huffmantree-carstensing)
 
 > One of the earliest forms of data compression was through Morse code, which allowed for the transmission of textual information over a wire. Each letter has been encoded based on its typical frequency of occurrence, with more common letters receiving shorter messages (such as the letter 'e' being represented as a single dot). A later version of data compression, called Huffman encoding, arose with the rise of the internet in the 1970s. Being dynamically generated on input data, Huffman encoding was an efficient means of data compression until the invention of the LZ77 algorithm in 1977.
 

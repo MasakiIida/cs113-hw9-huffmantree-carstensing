@@ -1,0 +1,555 @@
+!DOCTYPE html
+html langen
+head
+    meta charsetutf8
+    titleOnePunch Man Manga  Manga Streamtitle
+    meta nameviewport contentwidthdevicewidth initialscale1.0
+    meta namedescription contentRead free manga online like Naruto Bleach One Piece Hunter x Hunter and many more.
+    link hrefhttpsmaxcdn.bootstrapcdn.comfontawesome4.7.0cssfontawesome.min.css relstylesheet integritysha384wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbEQkPxCAFlNEevoEH3Sl0sibVcOQVnN crossoriginanonymous
+    meta namegooglesiteverification contentLSdvFBJCfeuElNWMU3sYJSZxKCngkavyET2IF3HzI 
+    meta nameadvertiverification content2fa8f9100f51f6e40a529b64a2f0422f
+
+    link relicon hreffavicon.ico typeimagexicon 
+    link relshortcut icon hreffavicon.ico typeimagexicon 
+    link hrefhttpsfonts.googleapis.comcss?familyRoboto400900700100 relstylesheet typetextcss
+            link hrefassetscssmangastream.css?229029 relstylesheet
+    
+    ! HTML5 shim for IE68 support of HTML5 elements 
+    !if lt IE 9
+    script srcassetsjshtml5shiv.jsscript
+    !endif
+
+    script typetextjavascript
+        window.cmpTheme  
+            background f3f3f3
+            primary 3879cc
+            primaryText fff
+            secondary 555
+            secondaryText ccc
+            textLink 777
+            divider ccc
+        
+    script
+
+    script srchttpss.nitropay.comads3.js typetextjavascriptscript
+    script typetextjavascript
+        window.abt  a
+    script
+head
+
+body
+
+div classheader hiddenxs
+    div classcontainer
+        div classmslogoa hrefadiv
+        div classextranav
+            ul
+                lia hrefhttpstwitter.commstreamteami classfa fatwittersquareiali
+                lia hrefhttpswww.facebook.comMangaStream243895256275i classfa fafacebooksquareiali
+            ul
+        div
+    div
+div
+
+div classcontainer idprimarynav
+    nav classnavbar navbardefault
+        div classcontainerfluid
+            div classnavbarheader
+    button typebutton classnavbartoggle collapsed datatogglecollapse datatargetmsnavbar ariaexpandedfalse
+        span classsronlyToggle navigationspan
+        span classiconbarspan
+        span classiconbarspan
+        span classiconbarspan
+    button
+    a classnavbarbrand hrefa
+div
+
+div classcollapse navbarcollapse idmsnavbar
+    ul classnav navbarnav
+        lia hrefHomeali
+        li classdropdown
+            a href classdropdowntoggle datatoggledropdownRead Manga b classcaretba
+            ul classdropdownmenu
+                lia hrefmangaattackontitanAttack on Titanali
+                lia hrefmangaberserkBerserkali
+                lia hrefmangadragonballsuperDragon Ball Superali
+                lia hrefmangahaikyuuHaikyuu!!ali
+                lia hrefmangahajimenoippoHajime no Ippoali
+                lia hrefmangamyheroacademiaMy Hero Academiaali
+                lia hrefmangaonepieceOne Pieceali
+                lia hrefmangaonepunchmanOne Punch Manali
+                lia hrefmanganeverlandPromised Neverlandali
+                lia hrefmangashokugekinosoumaShokugeki no Soumaali
+                lia hrefmangathesevendeadlysinsThe Seven Deadly Sinsali
+                lia hrefmangatokyoghoulreTokyo Ghoulreali
+                li classdividerli
+                lia hrefmangaFull Listali
+            ul
+        li
+        lia hrefcontentapplicationRecruitmentali
+        lia hrefcontentcolorColor Pagesali
+    ul
+    ul classnav navbarnav navbarright
+        lia hrefsupporteri classfa fabtci Donateali
+        li classauthguest datatogglemodal datatargetloginmodala hrefjavascriptLoginali
+        li classauthguest datatogglemodal datatargetregistermodala hrefjavascriptRegisterali
+        li classdropdown authauthenticated
+            a class dropdowntoggle href datatoggledropdownspan classusernamespan b classcaretba
+            ul classdropdownmenu
+                lia hrefsettingsSettingsali
+                lia hrefjavascript classlogoutLogoutali
+            ul
+        li
+        li classauthverified
+            a hrefjavascript classnotificationtoggle
+                i classfa fabello notificationbell ariahiddentruei
+                em classnotificationcountem
+            a
+        li
+    ul
+div! .navcollapse 
+        div
+    nav
+div
+
+div classcontainer mainbody
+
+    div classalert alertwarning idaccountunverified
+        div classiconi classfa faexclamationcircleidiv
+        div classmessage
+            strongWe sent a verification email to you.strongbr 
+            You need to confirm your email by clicking the link in the message we sent. Only verified accounts can
+            post comments on MangaStream. If you havent received an email check your spamjunk folder.
+        div
+    div
+
+    
+            div classmsa msa72890 idmsaheaderatfdiv
+        !
+        div classmsasupporter
+            Hate ads but still want to help us? Become a a hrefsupportersupportera!
+        div
+        
+    
+        div classrow content
+        div classcolsm8
+    
+h1OnePunch Manh1
+
+table classtable tablestriped
+    tr
+        th stylewidth 70Chapterth
+        th stylewidth 30Releasedth
+    tr
+            tr
+            tda hrefronepunchman992C254871992  Takeoff Part 2atd
+            td1 day agotd
+        tr
+            tr
+            tda hrefronepunchman995459199  Takeoffatd
+            tdNov 3rd 2018td
+        tr
+            tr
+            tda hrefronepunchman09854191098  Tears of Regretatd
+            tdOct 20th 2018td
+        tr
+            tr
+            tda hrefronepunchman09753991097  Backpackatd
+            tdOct 11th 2018td
+        tr
+            tr
+            tda hrefronepunchman965376196  Now!atd
+            tdSep 27th 2018td
+        tr
+            tr
+            tda hrefronepunchman09553471095  Speedy Scoundrelatd
+            tdSep 17th 2018td
+        tr
+            tr
+            tda hrefronepunchman09452761094  I Seeatd
+            tdAug 11th 2018td
+        tr
+            tr
+            tda hrefronepunchman09351861093  Here we go!atd
+            tdJun 28th 2018td
+        tr
+            tr
+            tda hrefronepunchman09251021092  Manholeatd
+            tdMay 26th 2018td
+        tr
+            tr
+            tda hrefronepunchman09150431091  Roveratd
+            tdApr 27th 2018td
+        tr
+            tr
+            tda hrefronepunchman09050101090  Because Im a Monsteratd
+            tdApr 10th 2018td
+        tr
+            tr
+            tda hrefronepunchman08949861089  Hot Potatd
+            tdMar 28th 2018td
+        tr
+            tr
+            tda hrefronepunchman08849191088  Limiteratd
+            tdFeb 24th 2018td
+        tr
+            tr
+            tda hrefronepunchman08748741087  Monster Natureatd
+            tdFeb 7th 2018td
+        tr
+            tr
+            tda hrefronepunchman08648351086  Hideoutatd
+            tdJan 22nd 2018td
+        tr
+            tr
+            tda hrefronepunchman08548031085  Is it because Im the Caped Baldy?atd
+            tdDec 29th 2017td
+        tr
+            tr
+            tda hrefronepunchman08447571084  Escalationatd
+            tdDec 7th 2017td
+        tr
+            tr
+            tda hrefronepunchman08346851083  The Hard Road Uphillatd
+            tdNov 3rd 2017td
+        tr
+            tr
+            tda hrefronepunchman08246301082  Alloutatd
+            tdOct 14th 2017td
+        tr
+            tr
+            tda hrefronepunchman08145921081  Obstinacyatd
+            tdSep 28th 2017td
+        tr
+            tr
+            tda hrefronepunchman08045271080  Surroundedatd
+            tdAug 27th 2017td
+        tr
+            tr
+            tda hrefronepunchman07944861079  What It Means To Be Cheapatd
+            tdAug 6th 2017td
+        tr
+            tr
+            tda hrefronepunchman07844501078  They Who Run In the Shadowsatd
+            tdJul 23rd 2017td
+        tr
+            tr
+            tda hrefronepunchman07743611077  Bored As Usualatd
+            tdJun 21st 2017td
+        tr
+            tr
+            tda hrefronepunchman07643251076  Stagnation and Growthatd
+            tdJun 7th 2017td
+        tr
+            tr
+            tda hrefronepunchman07542971075  Foul Playatd
+            tdMay 25th 2017td
+        tr
+            tr
+            tda hrefronepunchman074.242431074.2  Part 2atd
+            tdMay 11th 2017td
+        tr
+            tr
+            tda hrefronepunchman07442041074  Depths of Despairatd
+            tdApr 21st 2017td
+        tr
+            tr
+            tda hrefronepunchman073.242031073.2  Part 2atd
+            tdApr 21st 2017td
+        tr
+            tr
+            tda hrefronepunchman07341581073  Resistance of the Strongatd
+            tdApr 4th 2017td
+        tr
+            tr
+            tda hrefronepunchmanSpecial41561Special  OneShotatd
+            tdApr 3rd 2017td
+        tr
+            tr
+            tda hrefronepunchman072.240591072.2  Part 2atd
+            tdFeb 24th 2017td
+        tr
+            tr
+            tda hrefronepunchman07240131072  Monster Transformationatd
+            tdFeb 9th 2017td
+        tr
+            tr
+            tda hrefronepunchman07139911071  This is Real Martial Arts!atd
+            tdJan 31st 2017td
+        tr
+            tr
+            tda hrefronepunchman70.23946170.2  Part 2atd
+            tdJan 14th 2017td
+        tr
+            tr
+            tda hrefronepunchman07039011070  Being Strong is Funatd
+            tdDec 23rd 2016td
+        tr
+            tr
+            tda hrefronepunchman06938821069  Monster Cellsatd
+            tdDec 10th 2016td
+        tr
+            tr
+            tda hrefronepunchman068.238381068.2  Part 2atd
+            tdNov 26th 2016td
+        tr
+            tr
+            tda hrefronepunchman06838081068  Great Battle Poweratd
+            tdNov 15th 2016td
+        tr
+            tr
+            tda hrefronepunchman06737301067  Exceeding the Normatd
+            tdOct 12th 2016td
+        tr
+            tr
+            tda hrefronepunchman06636901066  The Strongatd
+            tdSep 21st 2016td
+        tr
+            tr
+            tda hrefronepunchman065.236361065.2  Part 2atd
+            tdAug 26th 2016td
+        tr
+            tr
+            tda hrefronepunchman06535871065  Sistersatd
+            tdAug 4th 2016td
+        tr
+            tr
+            tda hrefronepunchman06435571064  Part 4atd
+            tdJul 23rd 2016td
+        tr
+            tr
+            tda hrefronepunchman06335261063  Limitatd
+            tdJul 9th 2016td
+        tr
+            tr
+            tda hrefronepunchman06234781062  Part 2atd
+            tdJun 17th 2016td
+        tr
+            tr
+            tda hrefronepunchman06134481061  Contest and Combatatd
+            tdJun 4th 2016td
+        tr
+            tr
+            tda hrefronepunchman060.234171060.2  Part 2atd
+            tdMay 20th 2016td
+        tr
+            tr
+            tda hrefronepunchman060.133931060.1  The Reason I Seekatd
+            tdMay 6th 2016td
+        tr
+            tr
+            tda hrefronepunchman059.333241059.3  Part 3atd
+            tdMar 29th 2016td
+        tr
+            tr
+            tda hrefronepunchman059.232921059.2  Part 2atd
+            tdMar 12th 2016td
+        tr
+            tr
+            tda hrefronepunchman059.132571059.1  Dark Horseatd
+            tdFeb 26th 2016td
+        tr
+    table
+
+p
+    strongWheres the complete list?strongbr 
+    In respect to the publishers we only translate and host a small number of the most recent chapters for any series
+    that will have an English volume released at some point. We encourage you to go out and support the growth of the industry by
+    purchasing these volumes if youre able to.
+    br br 
+
+    Dont miss a release! Check Manga Stream every week and read your favorite series in glorious uncompressed high quality
+    before we remove the chapters.
+pdiv classmodal fade tabindex1 roledialog idloginmodal
+    div classmodaldialog roledocument
+        div classmodalcontent
+            div classmodalheader
+                button typebutton classclose datadismissmodal arialabelClosespan ariahiddentruetimesspanbutton
+                h4 classmodaltitleLog into MangaStream accounth4
+            div
+            div classmodalbody
+                p classinfo
+                    Dont have an account yet? a hrefjavascript idlogintoregisterCreate onea now its free and quick!
+                p
+
+                form classloginform novalidatenovalidate
+                    div classformgroup
+                        label foremailEmaillabel
+                        input typeemail classformcontrol idloginemail placeholderYour registered email address required 
+                        span classloginerror idloginemailrequiredYour email is required please fill out this field.span
+                    div
+                    div classformgroup
+                        label forpasswordPasswordlabel
+                        input typepassword classformcontrol idloginpassword placeholderPassword required 
+                        span classloginerror idloginpasswordrequiredPassword is required please fill out this field.span
+                    div
+
+                    div classloginerror idloginerrorThe emailpassword you entered doesnt match anything in our records check your details.div
+
+                    button typesubmit classbtn btndefault idloginbtnLog inbutton
+
+                    a hrefjavascript idlogintoforgotI forgot my passworda
+                form
+            div
+
+            div classexternal
+                a classgooglelaunch idgooglelaunch hrefjavascripti classfa fagooglei Googlea
+                a classfacebooklaunch hrefjavascripti classfa fafacebooki Facebooka
+                a classtwitterlaunch hrefjavascripti classfa fatwitteri Twittera
+            div
+        div
+    div
+div
+div classmodal fade tabindex1 roledialog idregistermodal
+    div classmodaldialog roledocument
+        div classmodalcontent
+            div classmodalheader
+                button typebutton classclose datadismissmodal arialabelClosespan ariahiddentruetimesspanbutton
+                h4 classmodaltitleAccount Registrationh4
+            div
+            div classmodalbody
+                p classinfo
+                    Making an account on MangaStream is fast and easy. Your account lets you comment on releases amp news
+                    and you can show your support by subscribing adfree MangaStream!. Already have an account? a hrefjavascript idregistertologinplease log in a instead.
+                p
+
+                div idregisterexternal
+                    You are about to link a third party social media account to a new MangaStream account. Once you
+                    make the account you can use your social media account to log in instantly in the future. If you
+                    already have a MangaStream account log in and link the social media account from your settings.
+                div
+
+                form classregisterform novalidatenovalidate
+                    div classformgroup
+                        label forusernameUsernamelabel
+                        input typetext classformcontrol maxlength28 idusername placeholderDesired username publicly viewable required 
+                        span classregistererror idusernameuniqueThat username is already taken. Please choose something different.span
+                        span classregistererror idusernamerequiredUsername is required please fill out this field.span
+                        span classregistererror idusernamegteUsername must be at least 3 characters long.span
+                        span classregistererror idusernamelteUsername cannot be more than 28 characters long.span
+                        span classregistererror idusernamealphanumUsername can only contain alphanumeric characters az and 09.span
+                    div
+                    div classformgroup
+                        label foremailEmaillabel
+                        input typeemail classformcontrol idemail placeholderValid email address required 
+                        p classhelpblockA valid email is required youll be sent a verification link.p
+                        span classregistererror idemailuniqueThat email is already associated with a different account.span
+                        span classregistererror idemailrequiredA valid email is required please fill out this field.span
+                    div
+                    div classformgroup
+                        label forpasswordPasswordlabel
+                        input typepassword classformcontrol idpassword placeholderPassword required 
+                        span classregistererror idpasswordrequiredPassword is required please fill out this field.span
+                        span classregistererror idpasswordgtePassword must be at least 8 characters long.span
+                    div
+                    div classformgroup
+                        label forpasswordconfPassword Confirmationlabel
+                        input typepassword classformcontrol idpasswordconf placeholderPassword again required 
+                        span classregistererror idpasswordmismatchThe passwords you entered dont match.span
+                    div
+
+                    button typesubmit classbtn btndefault idregisterbtnCreate Accountbutton
+                form
+            div
+        div
+    div
+div
+div classmodal fade tabindex1 roledialog idforgotmodal
+    div classmodaldialog roledocument
+        div classmodalcontent
+            div classmodalheader
+                button typebutton classclose datadismissmodal arialabelClosespan ariahiddentruetimesspanbutton
+                h4 classmodaltitleAccount recoveryh4
+            div
+            div classmodalbody
+                p classinfo
+                    If you have a MangaStream account but youve forgotten your password please enter your email below
+                    and well send you some instructions to recover it.
+                p
+
+                form classforgotform novalidatenovalidate
+                    div classformgroup
+                        label foremailEmaillabel
+                        input typeemail classformcontrol idforgotemail placeholderYour registered email address required 
+                        span classforgoterror idforgotemailrequiredYour email is required please fill out this field.span
+                    div
+
+                    button typesubmit classbtn btndefault idforgotbtnBegin recoverybutton
+                form
+            div
+        div
+    div
+div
+div classmodal fade tabindex1 roledialog idforgotsuccessmodal
+    div classmodaldialog roledocument
+        div classmodalcontent
+            div classmodalheader
+                button typebutton classclose datadismissmodal arialabelClosespan ariahiddentruetimesspanbutton
+                h4 classmodaltitleAccount recoveryh4
+            div
+            div classmodalbody
+                p classinfo
+                    Great! If that email matches an account on MangaStream expect to receive a message from us in the
+                    next few minutes with further instructions.
+                p
+            div
+        div
+    div
+div
+
+            div
+
+        div classcolsm4
+
+            div classsidenav hiddenxs
+                h4New Releasesh4
+
+                ul classnewlist
+                    li classactivea hrefrhappiness4654881span classpullrightTodayspani classfa fastar ariahiddentruei Happiness strong46strongemEndemalili classactivea hrefronepunchman992C254871span classpullright1 day agospani classfa fastar ariahiddentruei OnePunch Man strong992strongemTakeoff Part 2emalili classactivea hrefratrailofblood03954861span classpullright1 day agospani classfa fastar ariahiddentruei A Trail of Blood strong039strongemTearful voiceemalili classactivea hrefrshokugekinosouma28854851span classpullright2 days agospani classfa fastar ariahiddentruei Shokugeki no Souma strong288strongemAn Exceptional Set Menuemalili classactivea hrefrhaikyuu32754841span classpullright2 days agospani classfa fastar ariahiddentruei Haikyuu!! strong327strongemVolleyball Bugsemalili classactivea hrefrmyheroacademia20654831span classpullright2 days agospani classfa fastar ariahiddentruei My Hero Academia strong206strongemThe 3rd set concludesemalili classactivea hrefrdrstone08354821span classpullright2 days agospani classfa fastar ariahiddentruei Dr. Stone strong083strongemDr. Stoneemali                                    ul
+            div
+
+        div
+
+    div
+    
+    hr
+    footer
+        pcopy 2018 MangaStream  a hrefcontentprivacyPrivacy Policya  a hrefrssRSS Feedabr smallPlease support the authors by purchasing the volumes from official avenues when they are available in your locale.smallp
+    footer
+
+div
+
+
+div idnotificationshadowdiv
+div idnotificationboxdiv
+
+script srchttpsapis.google.comjsapiclient.jsscript
+script
+    window.fbAsyncInit  function 
+        FB.init
+            appId       1876457935705454
+            cookie      true
+            xfbml       true
+            version     v2.8
+        
+    
+    functiond s id
+        var js fjs  d.getElementsByTagNames0
+        if d.getElementByIdid return
+        js  d.createElements js.id  id
+        js.src  httpsconnect.facebook.netenUSsdk.js
+        fjs.parentNode.insertBeforejs fjs
+    document script facebookjssdk
+script
+script srcassetsjsvendor.js?229029script
+script srcassetsjsapp.js?229029script
+script typetextjavascript
+    app.config.mainurl  
+    app.config.readerurl  
+    app.config.apiurl  httpsapi.mangastream.com
+    app.config.ismobile  false
+
+    script
+
+body
+html
