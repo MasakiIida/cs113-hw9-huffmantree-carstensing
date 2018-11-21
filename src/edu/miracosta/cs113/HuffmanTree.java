@@ -11,12 +11,7 @@ package edu.miracosta.cs113;
 
 import java.util.PriorityQueue;
 
-// NOTE: This does not pass the JUnit tests due how my PriorityQueue is made. The compression ratio is the same however
-//          I believe that the JUnit tests also take into consideration of the chronological appearance of each character
-//          while I added to the PriorityQueue not worrying about that because that shouldn't affect the performance of
-//          compression. This is because the frequency of each character is important, not when each character appears
-//          within the text. I not 100% sure if this is the reason that this doesn't pass the JUnit tests so I didn't
-//          want to try to fix something that works and potentially ruin something.
+// NOTE: This is based off of lexicographical order and not chronological order
 
 /**
  * Tool for text compression into binary using the HuffmanTree data structure.
@@ -132,24 +127,27 @@ public class HuffmanTree implements HuffmanInterface {
         char temp;
         boolean keepLooping;
 
-        for(int i = 0; i < 26; i++) {
-            characterFrequency[i] = new HuffmanNode((char)(i+65),0);
-        }
-
-        for(int i = 0; i < 26; i++) {
-            characterFrequency[i+26] = new HuffmanNode((char)(i+97),0);
-        }
+        // lexicographical ordering for adding to the huffman table
+        characterFrequency[0] = new HuffmanNode('\t',0);
+        characterFrequency[1] = new HuffmanNode('\n',0);
+        characterFrequency[2] = new HuffmanNode(' ',0);
+        characterFrequency[3] = new HuffmanNode('!',0);
+        characterFrequency[4] = new HuffmanNode('.',0);
 
         for(int i = 0; i < 10; i++) {
-            characterFrequency[i+52] = new HuffmanNode((char)(i+48),0);
+            characterFrequency[i+5] = new HuffmanNode((char)(i+48),0);
         }
 
-        characterFrequency[62] = new HuffmanNode('\t',0);
-        characterFrequency[63] = new HuffmanNode('\n',0);
-        characterFrequency[64] = new HuffmanNode('!',0);
-        characterFrequency[65] = new HuffmanNode('.',0);
-        characterFrequency[66] = new HuffmanNode('?',0);
-        characterFrequency[67] = new HuffmanNode(' ',0);
+        characterFrequency[15] = new HuffmanNode('?',0);
+
+        for(int i = 0; i < 26; i++) {
+            characterFrequency[i+16] = new HuffmanNode((char)(i+65),0);
+        }
+
+        for(int i = 0; i < 26; i++) {
+            characterFrequency[i+42] = new HuffmanNode((char)(i+97),0);
+        }
+
 
         for(int i = 0; i < codedMessage.length(); i++) {
             temp = codedMessage.charAt(i);
